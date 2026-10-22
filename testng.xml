@@ -3,8 +3,8 @@
 <suite name="TestSuite">
 	<test name="Demo">
 		<classes>
-			<class name="tests.LoginSeleniumIDETest" /> 
-		</classes>	
+			<class name="tests.LoginBasicTest" />
+		</classes>
 	</test>
 </suite> <!-- Suite -->
 
